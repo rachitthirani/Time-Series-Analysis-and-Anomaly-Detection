@@ -1,0 +1,9 @@
+scipy
+numpy
+pandas
+pymongo
+sklearn
+nltk
+plotly
+matplotlib
+statsmodels
